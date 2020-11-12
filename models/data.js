@@ -1,6 +1,6 @@
 // create an array with 4 people objects
 module.exports = 
-persons = [
+ [
     {
         id: 0,
         name: "Chadwick Boseman",
